@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanketpatel32&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=sanketpatel32&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -251,13 +251,7 @@ motto: "Ship, learn, improve, repeat."
 
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanketpatel32&theme=tokyonight" alt="Repos per Language" />
 &nbsp;
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanketpatel32&theme=tokyonight" alt="Most Commit Language" />
-
-<br />
-
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanketpatel32&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-&nbsp;
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpatel32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br />
 
