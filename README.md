@@ -25,11 +25,11 @@ I enjoy building backend systems, AI-powered workflows, developer tools, and pra
 My work sits around **APIs, databases, automation, LLMOps, system design, and clean product engineering**.
 
 ```txt
-Backend Engineering  ████████████████████░░
-AI / LLM Workflows   ██████████████████░░░░
-System Design        █████████████████░░░░░
-Developer Tools      ████████████████░░░░░░
-Open Source          ████████████░░░░░░░░░░
+Backend Engineering  ██████████████████░░
+AI / LLM Workflows   █████████████████░░░
+System Design        ████████████████░░░░
+Developer Tools      ███████████████░░░░░
+Open Source          ███████████░░░░░░░░░
 ```
 
 ---
@@ -128,13 +128,13 @@ Built for fast Markdown previewing, editing, tabs, file associations, and smooth
 <tr>
 <td width="50%">
 
-### 🌌 Portal / AuraFlow
+### 🌐 Portal
 
-A real-time project and metrics dashboard using **Bun, WebSockets, React, Vite, and TypeScript**.
+A real-time project and metrics dashboard built with **Bun, WebSockets, React, Vite, and TypeScript**.
 
 **Highlights**
 - Real-time WebSocket sync
-- Kanban/task workflow
+- Kanban / task workflow
 - Live system metrics
 - Session chat
 - Desktop app wrapper
@@ -203,12 +203,19 @@ Developer Tools         ████████████████░░�
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanketpatel32&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=sanketpatel32&theme=tokyonight&hide_border=true" />
+<!--
+  Switched to github-profile-summary-cards because github-readme-stats.vercel.app
+  is currently returning HTTP 503. To revert, self-host anuraghazra/github-readme-stats
+  (free one-click Vercel deploy) and restore the original URLs below:
+  https://github-readme-stats.vercel.app/api?username=sanketpatel32&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github
+  https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpatel32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
+-->
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanketpatel32&theme=tokyonight" />
+<img height="165" src="https://streak-stats.demolab.com/?user=sanketpatel32&theme=tokyonight&hide_border=true" />
 
 <br />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpatel32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanketpatel32&theme=tokyonight&hide_border=true" />
 
 <br />
 
@@ -241,12 +248,8 @@ Developer Tools         ████████████████░░�
 
 </div>
 
----
-
 <div align="center">
-
-### Building backend systems, AI workflows, and tools that make engineering faster.
-
+<em>Building backend systems, AI workflows, and tools that make engineering faster.</em>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1E40AF,100:0F172A&height=120&section=footer" />
