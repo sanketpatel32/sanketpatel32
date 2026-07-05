@@ -131,7 +131,6 @@ motto: "Ship, learn, improve, repeat."
 <a href="https://github.com/sanketpatel32/Small-server">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://github.com/sanketpatel32/Small-server/actions/workflows/go.yml/badge.svg" alt="Build" />
 </a>
 
 </td>
