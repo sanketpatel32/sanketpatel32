@@ -30,7 +30,7 @@ My work focuses on:
 | [**mdpeek**](https://github.com/sanketpatel32/Mdpeek) | Native Windows workspace for Markdown, PDFs, code, notes, presentations, and peer-to-peer collaboration | Tauri, Rust, React, Yjs, WebRTC |
 | [**UI Vault**](https://github.com/sanketpatel32/ui-vault) | Searchable catalog of 586 live-preview components from 12 vendorable UI libraries | React 19, TypeScript, Tailwind CSS |
 | [**System Design Atlas**](https://github.com/sanketpatel32/System-Design) | Interactive learning platform with 300 system-design topics, flashcards, progress tracking, and incident simulations | Next.js, TypeScript, Tailwind CSS |
-| [**YumeDock**](https://github.com/sanketpatel32/YumeDock) | Lightweight native macOS-style dock and menu bar for Windows 11 | Rust, Direct2D, DirectComposition |
+| [**Salon Management App**](https://github.com/sanketpatel32/fresha-salon-app) | Full-stack salon platform for appointments, payments, automated reminders, authentication, and administration | Node.js, Express, React, MySQL, Sequelize, Cashfree |
 | [**Small Server**](https://github.com/sanketpatel32/Small-server) | Tiny single-binary REST API playground for arbitrary JSON payloads and webhook testing | Go, SQLite, OpenAPI |
 
 ## Toolbox
