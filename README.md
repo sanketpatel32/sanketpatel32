@@ -7,6 +7,7 @@
 I build reliable backend systems, local-first developer tools, and practical AI workflows.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sanketpatel.online-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://sanketpatel.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanketpatel32-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketpatel32/)
 [![X](https://img.shields.io/badge/X-@camouflage32p-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/camouflage32p)
 [![GitHub](https://img.shields.io/badge/GitHub-sanketpatel32-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/sanketpatel32)
 
