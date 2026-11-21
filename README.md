@@ -22,14 +22,16 @@ I'm a software engineer from Jamnagar, India, working on backend and AI systems 
 - **AI:** practical LLM workflows, inference, voice agents, and automation
 - **Learning:** system design, distributed systems, and software architecture
 
-## Recent projects
+## Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Blunt Code**](https://github.com/sanketpatel32/Blunt-code) | Local code-quality and security platform that runs Ruff, Biome, Semgrep, SonarQube, and secret scanning in one private Windows app. No cloud, no account, no telemetry. | Go, React, SQLite |
-| [**mdpeek**](https://github.com/sanketpatel32/Mdpeek) | ~7 MB native Windows workspace for Markdown, PDFs, code, notebooks, and whiteboards, with a built-in terminal and peer-to-peer collaboration | Tauri 2, Rust, JavaScript |
-| [**Discord VC Reader**](https://github.com/sanketpatel32/Discord-TTS) | Discord bot that reads voice-channel chat aloud with natural TTS in English, Hindi, and Hinglish, in ~25-45 MB RAM with monthly budget limits | Rust, OpenAI Realtime, SQLite |
-| [**System Design Quest**](https://github.com/sanketpatel32/system-design-quest) | Game-style system design practice for SDE interviews, with India-market examples and deterministic grading | TypeScript, React, Vite |
+| [**Blunt Code**](https://github.com/sanketpatel32/Blunt-code) | Local code-quality and security platform that runs Ruff, Biome, Semgrep, SonarQube, and secret scanning in one private Windows app. No cloud, no account, no telemetry. 30 releases. ([site](https://sanketpatel32.github.io/Blunt-code/)) | Go, React, SQLite |
+| [**mdpeek**](https://github.com/sanketpatel32/Mdpeek) | ~7 MB native Windows workspace for Markdown, PDFs, code, notebooks, and whiteboards, with a built-in terminal and peer-to-peer collaboration. 30 releases. | Tauri 2, Rust, JavaScript |
+| [**System Design Quest**](https://github.com/sanketpatel32/system-design-quest) | Game-style system design practice for SDE interviews, with India-market examples and deterministic grading ([live](https://system-design-quest-phi.vercel.app)) | TypeScript, React, Vite |
+| [**Discord VC Reader**](https://github.com/sanketpatel32/Discord-TTS) | Discord bot that reads voice-channel chat aloud with natural TTS in English, Hindi, and Hinglish, in ~25-45 MB RAM with monthly budget limits ([site](https://sanketpatel32.github.io/Discord-TTS/)) | Rust, OpenAI Realtime, SQLite |
+| [**Salon Booking Platform**](https://github.com/sanketpatel32/fresha-salon-app) | Full-stack salon platform with paid bookings, idempotent payment webhooks, staff scheduling, and email reminders ([demo video](https://youtu.be/590sL3StJRM)) | Node.js, Express, React, PostgreSQL, Cashfree |
+| [**Code Archaeology**](https://github.com/sanketpatel32/code-archaeology-backend) | Git-history analytics that finds hotspots, ownership, and complexity risks in any repository ([live](https://code-archaeology-frontend.vercel.app)) | Bun, Fastify, PostgreSQL, Redis, Next.js |
 
 ## Toolbox
 
