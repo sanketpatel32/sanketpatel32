@@ -29,9 +29,6 @@ I'm a software engineer from Jamnagar, India, working on backend and AI systems 
 | [**Blunt Code**](https://github.com/sanketpatel32/Blunt-code) | Local code-quality and security platform that runs Ruff, Biome, Semgrep, SonarQube, and secret scanning in one private Windows app. No cloud, no account, no telemetry. | Go, React, SQLite |
 | [**mdpeek**](https://github.com/sanketpatel32/Mdpeek) | ~7 MB native Windows workspace for Markdown, PDFs, code, notebooks, and whiteboards, with a built-in terminal and peer-to-peer collaboration | Tauri 2, Rust, JavaScript |
 | [**Discord VC Reader**](https://github.com/sanketpatel32/Discord-TTS) | Discord bot that reads voice-channel chat aloud with natural TTS in English, Hindi, and Hinglish, in ~25-45 MB RAM with monthly budget limits | Rust, OpenAI Realtime, SQLite |
-| [**YumeDock**](https://github.com/sanketpatel32/YumeDock) | Native macOS-style dock and menu bar for Windows 11, with safe mode and a crash watchdog | Rust, Direct2D, DirectComposition |
-| [**AuraFlow Portal**](https://github.com/sanketpatel32/Portal) | Self-hosted dashboard of 16 developer tools (SQL/NoSQL clients, API tester, cron triggers, Kanban) behind one PIN lock ([live](https://portal.sanketpatel.online)) | Bun, React, Vite, WebSockets |
-| [**Small Server**](https://github.com/sanketpatel32/Small-server) | Single-binary REST API playground for JSON payloads, webhooks, and HTTP testing | Go, SQLite, OpenAPI |
 | [**System Design Quest**](https://github.com/sanketpatel32/system-design-quest) | Game-style system design practice for SDE interviews, with India-market examples and deterministic grading | TypeScript, React, Vite |
 
 ## Toolbox
